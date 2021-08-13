@@ -4,7 +4,9 @@ Server for Web Development group term project: "CozyCook."
 
 Arielle Slatus, Sina Salehi, Leora Fink
 
-Professor Jose AnnunziatoNortheastern University
+Professor Jose Annunziato
+
+Northeastern University
 
 Spring 2021
 
